@@ -1,0 +1,3 @@
+/home/finn/ChaoticDoublePendulum/build/CMakeFiles/rebuild_cache.dir
+/home/finn/ChaoticDoublePendulum/build/CMakeFiles/edit_cache.dir
+/home/finn/ChaoticDoublePendulum/build/CMakeFiles/PendulumButterfly.dir

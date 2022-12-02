@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/finn/ChaoticDoublePendulum/double_pendulum.cpp
+double_pendulum.h
+/home/finn/ChaoticDoublePendulum/double_pendulum.h
+
+/home/finn/ChaoticDoublePendulum/double_pendulum.h
+SFML/Graphics.hpp
+-
+math.h
+-
+array
+-
+
+/home/finn/ChaoticDoublePendulum/main.cpp
+iostream
+-
+double_pendulum.h
+/home/finn/ChaoticDoublePendulum/double_pendulum.h
+unistd.h
+-
+sys/stat.h
+-
+sys/types.h
+-
+
